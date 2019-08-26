@@ -1,5 +1,5 @@
 let num1 = 2
-let num2 = 61
+let num2 = 31
 let multiply = num1 * num2
 
 var random = Math.floor(Math.random() * 10) + 1
