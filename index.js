@@ -1,4 +1,5 @@
-var multiply = 31 * 2
+let multiply = 31
+multiply *= 2
 
 var random = Math.random
 
