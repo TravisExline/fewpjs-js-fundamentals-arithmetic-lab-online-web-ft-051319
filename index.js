@@ -1,1 +1,1 @@
-var multiply = num1 * num2
+var multiply = 31 * 2
