@@ -1,7 +1,7 @@
 let multiply = 31
 multiply *= 2
 
-var random = Math.random
+var random = Math.floor(Math.random() * 10) + 1
 
 var mod = 16
 mod %= 6
